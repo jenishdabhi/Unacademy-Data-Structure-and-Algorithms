@@ -2,5 +2,5 @@
 !*.c
 !*.cpp
 !Makefile
-.gitignore
-.vscode
+!*.gitignore
+!*.vscode
